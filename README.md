@@ -1,4 +1,4 @@
 # Linear Programming
 HW1 and HW2 are assignments for the Linear&Integer Programming course (Problem modeling, Simplex algorithm, Sensitivity analysis, Branch&Bound method)
 
-Tools:
+Libraries: Numpy, Scipy, Matplotlib, Pulp (solver)
