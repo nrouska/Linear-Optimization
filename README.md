@@ -15,5 +15,5 @@ Data: USDA (64 foods and 8 nutrients)
 <img width="746" height="434" alt="image" src="https://github.com/user-attachments/assets/2410c162-786c-4cf9-b9d0-8163fd505af6" />
 
 # Set-up
-1.`pip install pandas, pulp, itertools`
+1.In VScode powershell `pip install pandas, pulp, itertools`
 
